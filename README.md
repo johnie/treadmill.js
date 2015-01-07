@@ -6,6 +6,11 @@
 
 ## Install
 
+**Bower**
+```bash
+$ bower install treadmill.js
+```
+
 ```javascript
 Treadmill.run();
 ```
