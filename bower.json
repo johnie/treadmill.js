@@ -1,0 +1,24 @@
+{
+  "name": "treadmill.js",
+  "main": "treadmill.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/johnie/treadmill.js",
+  "authors": [
+    "Johnie Hjelm <johnie.hjelm@symbio.com>"
+  ],
+  "description": "Make your website feel infinite.",
+  "keywords": [
+    "treadmill",
+    "scroll",
+    "infinite"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}

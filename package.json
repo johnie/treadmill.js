@@ -1,0 +1,31 @@
+{
+  "name": "treadmill.js",
+  "version": "0.0.1",
+  "description": "Make your website feel infinite.",
+  "main": "treadmill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnie/treadmill.js.git"
+  },
+  "keywords": [
+    "scroll",
+    "treadmill",
+    "infinite"
+  ],
+  "author": "Johnie Hjelm <johnie.hjelm@symbio.com> (http://johnie.se)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnie/treadmill.js/issues"
+  },
+  "homepage": "https://github.com/johnie/treadmill.js",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.4.3",
+    "gulp-header": "^1.2.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.0.2"
+  }
+}
