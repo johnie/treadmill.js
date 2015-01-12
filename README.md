@@ -2,7 +2,7 @@
 
 **No hate. This will be improved.**
 
-> Make your website feel infinite.
+> Make your website feel endless.
 
 ## Install
 
