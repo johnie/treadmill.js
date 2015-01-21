@@ -1,7 +1,5 @@
 # Treadmill.js
 
-**No hate. This will be improved.**
-
 > Make your website feel endless.
 
 ## Install
